@@ -4,7 +4,7 @@
 
 **Today's Progress**: Revising basic CSS again
 
-**Thoughts:** I have done this before, some months ago, just doing again the css part. 
+**Thoughts:** I have done this before, some months ago, just doing again the css part. And this will take me 2 days.  
 
 **Link to work:** --null-- 
 
