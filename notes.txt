@@ -1,0 +1,20 @@
+# NOTES 
+### Day 0
+Learnt about : 
+1) img = image, it's self closing 
+2) src - source
+3) alt = describe your image, when the picture fails to upload it describes the best 
+ for example : <img src="https://example_picture.org" alt="example image">
+4) a (anchor) elements to link to content outside of your web page.
+a elements need a destination web address called an href attribute. They also need anchor text. Here's an example:
+<a href="https://example.org">this links to example</a>
+### Day 1
+continuing THE BASE PART AGAIN 
+5)anchor tag >> _blank used to open another tab 
+6)href is used for url 
+7)creating an image as a link, nesting it within a anchor tag 
+8)input from a user, self losing tags 
+<input type="text">
+10)web forms that actually submit data to a server 
+11) submit button to your form. Clicking this button will send the data from your form to the URL
+12) radio buttons for questions where you want the user to only give you one answer out of multiple options.
