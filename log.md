@@ -7,7 +7,7 @@
 **Thoughts:** Changed my mind, i had second thoughts, if i am going to start, why not start again from the base. 
 Fresh and better!
 
-**Link to work:**  [https://www.freecodecamp.org/xrudith](My Progress is over here)
+**Link to work:**  [https://www.freecodecamp.org/xrudith] (My Progress is over here)
 
 **Link(s) to work**
 1. null
@@ -17,4 +17,4 @@ Fresh and better!
 
 **Thoughts:** Revising this, looks more clear and better when we redo things 
 
-**Link to work:** [https://www.freecodecamp.org/xrudith](My Progress is over here)
+**Link to work:** [https://www.freecodecamp.org/xrudith] (My Progress is over here)
