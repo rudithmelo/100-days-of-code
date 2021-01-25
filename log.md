@@ -18,3 +18,18 @@ Fresh and better!
 **Thoughts:** Revising this, looks more clear and better when we redo things 
 
 **Link to work:** [https://www.freecodecamp.org/xrudith] (My Progress is over here)
+
+### Day 2  January 22, 2021 
+**Today's Progress**: Complted HTML
+
+**Thoughts:** Forgottten to commit 
+
+**Link to work:** [https://www.freecodecamp.org/xrudith] (My Progress is over here)
+
+### Day 3 January 25, 2021 
+**SAD NEWS**: i was busy doing other stuff so i missed my 2 days in between
+**Today's Progress**: Starting CSS
+
+**Thoughts:** Completed 18%
+
+**Link to work:** [https://www.freecodecamp.org/xrudith] (My Progress is over here)
